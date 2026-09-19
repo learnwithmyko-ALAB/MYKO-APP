@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "MYKO \u2014 My Knowledge Organizer",
+  "short_name": "MYKO",
+  "description": "Install MYKO Teacher Tools launcher",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6f8",
+  "theme_color": "#103659",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
