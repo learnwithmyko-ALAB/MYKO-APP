@@ -1,7 +1,7 @@
-# MYKO installable launcher
+MYKO GitHub Pages PWA launcher
 
-Upload the CONTENTS of this ZIP (index.html, manifest.webmanifest, sw.js, logo.png and icons/) to the ROOT of your MYKO-APP GitHub repository. GitHub Pages: main / (root).
+Upload the CONTENTS of this folder to the root of the existing MYKO-APP GitHub repository, replacing matching files (including icons/). Keep Pages on main / (root).
 
-Install from https://learnwithmyko-alab.github.io/MYKO-APP/ rather than from the Google Apps Script page. The installed MYKO app is a launcher; the actual teacher workspace opens separately on Google Apps Script and requires internet.
+The public page has one Install MYKO App button. When opened as an installed app, the same button becomes Open MYKO Teacher Workspace. Browsers control whether an installation prompt can be shown. This is a launcher: the Google Apps Script workspace may open in a browser tab. Do not install the Google Apps Script page itself if you want the MYKO icon.
 
-If you previously installed MYKO with the wrong icon, uninstall the old shortcut/app, reload the GitHub page after deployment, and install again. Browser support varies: on iPhone use Safari Share > Add to Home Screen; on Chrome/Edge use the browser Install page as app menu when the prompt is unavailable.
+If you previously installed a shortcut with the G icon, remove that shortcut, clear old site data for the GitHub Pages site if necessary, and install again from the GitHub Pages address.

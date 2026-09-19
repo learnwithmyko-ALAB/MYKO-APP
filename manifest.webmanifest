@@ -1,9 +1,9 @@
 {
   "id": "./",
-  "name": "MYKO \u2014 My Knowledge Organizer",
+  "name": "MYKO - My Knowledge Organizer",
   "short_name": "MYKO",
-  "description": "Install MYKO Teacher Tools launcher",
-  "start_url": "./",
+  "description": "MYKO teacher tools launcher",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f6f8",
